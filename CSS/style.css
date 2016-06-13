@@ -1,0 +1,58 @@
+h1{
+    font-family: arial,helvetica;
+    font-weight: normal;
+    /*margin:0;*/
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h2{
+    font-size: 2.4em;
+}
+h3{
+    font-size: 1.6em;
+}
+
+hr{
+    border-top: solid 2px #000;
+}
+
+.prof_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+}
+
+.container p{
+    color: #000;
+    font-size: 16px;
+}
+
+.name{
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+
+.link{
+    text-align: center;
+}
+
+.row{
+    margin: 1em;
+}
+
+.link a{
+    font-size: 1.1em;
+}
+
+.col-sm-3{
+    word-wrap: break-word;
+    margin-bottom: 1.2em;
+}
+
